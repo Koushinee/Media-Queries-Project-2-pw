@@ -10,7 +10,7 @@ body{
   background-color: #111827;
 }
 
-nav{
+.list{
   margin: 5px;
   display: flex;
   justify-content: right;
